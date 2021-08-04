@@ -1,0 +1,123 @@
+.out{
+    /* border:solid red 1px; */
+    width:50%;
+    position:relative;
+    top: 12%;
+    left: 18%;
+    margin-top: 25px;
+    
+}
+/* line 2*/
+.l1
+{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}
+
+.d1
+{
+    display:inline-block;
+    width: 20%;
+    /* border: red solid; */
+}
+
+.d3
+{
+    display:inline-block;
+    width: 20%;
+    /* border: red solid; */
+}
+
+ #d11
+{
+    text-align: center;
+    position: relative;
+    top: 46%;
+    left:50px;
+} 
+
+
+#d12
+{
+    /* width: 30%; */
+    font-family: 'Roboto Condensed', sans-serif; 
+     /* font-family: 'Montserrat', sans-serif; */
+
+
+}
+
+
+#d13
+{
+    text-align: center;
+    position: relative;
+    top: 46%;
+    right: 50px;
+}
+
+
+/*--now styling the back------>*/
+
+.H3{
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    
+
+}
+#arrow{
+    display: inline-block;
+    color: orangered;
+    font-size: 20px;
+}
+
+.l2{
+    margin: 0 39%;
+    /* padding-left: 150px; */
+}
+
+
+/*  ---- box*/
+
+
+.box{
+    display: block;
+    border: 1px solid red;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom:10px ;
+    height: 300px;
+    /* background-color: red; */
+    position: relative; 
+    box-shadow: 3px 3px 10px rgb(169,169,169);
+    border-radius: 7px;  
+}
+
+.h3{
+    margin-left: 60px;
+    color: orangered;
+}
+
+#Trip{
+    font-family: 'Montserrat', sans-serif;
+    color: orangered;
+    margin-left: 60px;
+}
+
+#com{
+    text-decoration:line-through;
+    color: orangered;
+    margin-left: 60px;
+}
+
+#checkbox{
+    margin-left: 50px;
+}
+
+
+#plus{
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    color: orangered;
+}
